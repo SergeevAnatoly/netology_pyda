@@ -13,3 +13,5 @@
      - hw-1-task4.ipynb -> Задача 4
    - /homework-2/
      - pyda-1.2-hw.ipynb -> Все решения задач в одном файле
+   - /homework-3/
+     - pyda-3-hw.ipynb -> Все решения задач в одном файле
