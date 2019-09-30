@@ -12,7 +12,7 @@
 
 Файлы:
  - /homeworks/
-	-/module-1/
+  -/module-1/
 	   - /homework-1/
 		 - hw-1-task1.ipynb -> Задача 1
 		 - hw-1-task2.ipynb -> Задача 2
