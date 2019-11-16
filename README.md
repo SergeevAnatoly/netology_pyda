@@ -45,3 +45,4 @@
 	   - /module-1-diplom/
 		 - statistic-in-python-DIPLOM.ipynb -> Дипломная работа по Модулю 1 - Статистика в Python
 	-/module-2/
+	-/module-3/
